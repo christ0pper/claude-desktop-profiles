@@ -1,0 +1,10 @@
+# Build output (install.ps1 compiles the launcher into %USERPROFILE%\ClaudeProfiles\bin)
+*.exe
+*.pdb
+*.ico
+
+# Test and editor leftovers
+cdp-tests-*/
+*.log
+.vs/
+.vscode/
