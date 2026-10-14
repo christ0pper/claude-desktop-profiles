@@ -113,4 +113,4 @@ The test suite needs no extra modules. It runs entirely in a temporary folder ag
 
 ## Legal
 
-Released under the [MIT License](LICENSE). "Claude" and "Anthropic" are trademarks of Anthropic, PBC; this project is not affiliated with Anthropic. Please don't ship Anthropic logos or mascots as launcher icons in forks of this project.
+Created by Christopher ([@christ0pper](https://github.com/christ0pper)). Released under the [MIT License](LICENSE). "Claude" and "Anthropic" are trademarks of Anthropic, PBC; this project is not affiliated with Anthropic. Please don't ship Anthropic logos or mascots as launcher icons in forks of this project.
